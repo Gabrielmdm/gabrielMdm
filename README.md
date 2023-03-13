@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **gabrielsoft132/gabrielsoft132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Olá 👋, Eu sou o Gabriel Mendonça</h1>
+<h1 align="center">Olá, Eu sou o Gabriel Mendonça</h1>
 <h3 align="center">Estou cursando engenharia de software na Universidade Unifil</h3>
 
 <h3 align="left">Connect with me:</h3>
