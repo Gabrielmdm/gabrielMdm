@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Olá 👋, Eu sou o Gabriel Mendonça</h1>
-<h3 align="center">estudante de engenharia de software</h3>
+<h3 align="center">Estou cursando engenharia de software na Universidade Unifil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
