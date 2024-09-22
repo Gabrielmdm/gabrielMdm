@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Olá, Eu sou o Gabriel Mendonça</h1>
 <h3 align="center">Estou cursando engenharia de software na Universidade Unifil</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmdm&show_icons=true&locale=en" alt="gabrielmdm" /></p>
 
 
 <h3 align="left">Linguagenas de Programação:</h3>
